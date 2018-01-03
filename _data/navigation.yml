@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: 网页制作与设计的作品集
+- title: web design’s portfolio
   url: /web/
   excerpt: 作品回顾
   image: 放大镜房子.gif
 
-- title: 网页设计的心得
+- title: web design’s note
   url: /web1/
   excerpt: 心得体会
   image: 车车.gif
