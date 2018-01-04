@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: web’s portfolio
+- title: web's portfolio
   url: /portfolio/
   excerpt: 作品回顾
-  image: 放大镜房子.gif
+  image: web portfolio.gif
 
-- title: web ’s notes
+- title: web's notes
   url: /posts/rwd/
   excerpt: 心得体会
-  image: 车车.gif
+  image: web notes.gif
 
 - title: 信息可视化的作品集
   url: /infovis/
   excerpt: 吃货的搜罗
-  image: 冰淇淋.gif
+  image: eating.gif
 
 - title: 信息可视化的心得
   url: /posts/infovis/
   excerpt: 心得体会
-  image: 旋转的房子.gif
+  image: infovis note.gif
