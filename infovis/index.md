@@ -6,12 +6,13 @@ modified:
 excerpt: "网页制作与设计作品"
 tags: []
 image: 
-  feature: 樱花.gif
+  feature: _message.gif
   teaser:
 ---
 
-网页制作与设计作品
-
+![期末可视化作品]https://i.loli.net/2018/01/07/5a51e53c06515.png
+ 
+其他作品
 <div class="tiles">
 {% for post in site.categories.message %}
   {% include post-grid.html %}
