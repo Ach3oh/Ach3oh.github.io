@@ -5,9 +5,7 @@ date: 2018-01-04T00:03:45-04:00
 modified:
 excerpt: "期末可视化作品展示"
 tags: []
-image: 
-  feature: _message.gif
-  teaser:
+
 ---
 ![仪表板 1.png](https://i.loli.net/2018/01/07/5a51e53c06515.png)
 
