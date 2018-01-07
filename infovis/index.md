@@ -9,8 +9,8 @@ image:
   feature: _message.gif
   teaser:
 ---
-
-![期末可视化作品]https://i.loli.net/2018/01/07/5a51e53c06515.png
+ 
+- <a href="https://public.tableau.com/views/11_172/1_1?:embed=y&:display_count=yes&publish=yes">![仪表板 2.png]https://i.loli.net/2018/01/07/5a51e53c06515.png
  
 其他作品
 <div class="tiles">
