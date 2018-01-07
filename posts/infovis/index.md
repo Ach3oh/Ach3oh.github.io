@@ -12,7 +12,7 @@ image:
 
 
 <div class="tiles">
-{% for post in site.categories.message play %}
+{% for post in site.categories.infovisnotes %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 message play 的列出来-->
+</div><!-- /.tiles 把所有categories 有 infovisnotes 的列出来-->
