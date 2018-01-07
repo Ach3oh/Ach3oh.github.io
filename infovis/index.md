@@ -10,8 +10,8 @@ image:
   teaser:
 ---
  
-![image](https://public.tableau.com/profile/.3159#!/vizhome/11_172/1_1?publish=yes)
- 
+![仪表板 1.png](https://i.loli.net/2018/01/07/5a51e53c06515.png)
+
 
 其他作品
 <div class="tiles">
