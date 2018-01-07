@@ -6,8 +6,8 @@ modified:
 excerpt: "网页成果展"
 tags: []
 image: 
-  feature: 樱花2.gif
-  teaser:
+  feature: web cat.gif
+  teaser:web cat.gif
 ---
 
 网页成果展
