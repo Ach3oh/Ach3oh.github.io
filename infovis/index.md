@@ -7,7 +7,7 @@ excerpt: "期末可视化作品展示"
 tags: []
 
 ---
-![仪表板 3.png](https://i.loli.net/2018/01/07/5a51f8a0884f2.png)
+![仪表板 1.png](https://i.loli.net/2018/01/07/5a51fa0ca9867.png)
 
 其他作品
 <div class="tiles">
