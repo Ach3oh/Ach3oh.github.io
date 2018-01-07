@@ -1,5 +1,6 @@
 ---
 layout: archive
+title : "可视化"
 date: 2018-01-04T00:03:45-04:00
 modified:
 excerpt: "期末可视化作品展示"
