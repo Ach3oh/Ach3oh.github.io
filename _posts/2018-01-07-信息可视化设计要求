@@ -1,0 +1,12 @@
+---
+layout: article
+title:  "可视化图的搭色"
+date:   2018-01-03 19:24:50 +0800
+categories: web work
+image:
+  teaser: color.jpg
+  feature: color.jpg
+---
+可视化图的搭色
+ 
+在一张可视化图中，若你的图片需要多种颜色，那就建议你要避开一些“雷区”，比如你要照顾一下色盲患者，又比如说你想要做比较的时候，最好不要找颜色相近的几个色，那颜色到底该怎么搭好呢？
