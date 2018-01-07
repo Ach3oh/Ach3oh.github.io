@@ -3,10 +3,10 @@ layout: archive
 title: "web's notes"
 date: 2018-01-04T19:10:45-04:00
 modified:
-excerpt: 随笔（`……`）
+excerpt: 随笔（`…`）
 tags: []
 image: 
-  feature: web notes.jpg
+  feature: web note.jpg
   teaser:
 ---
 
