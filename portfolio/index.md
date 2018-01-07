@@ -13,7 +13,7 @@ image:
 网页成果展
 
 <div class="tiles">
-{% for post in site.categories.note %}
+{% for post in site.categories.web work %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 note 的列出來-->
+</div><!-- /.tiles 把所有categories 有 web work 的列出來-->
