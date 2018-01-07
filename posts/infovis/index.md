@@ -6,8 +6,8 @@ modified:
 excerpt: 随笔( •_•)
 tags: []
 image: 
-  feature: note.png
-  teaser:
+  feature: note.jpg
+  teaser: note.jpg
 ---
 
 
