@@ -134,7 +134,7 @@
       position: absolute;
       left: 0;
       margin-bottom: 0;
-      width: 50px;
+      width: 23%/*50px*/;
       border: 1px solid $white;
       margin-bottom: ($gutter / 2);
       opacity: 0.6;
@@ -144,7 +144,7 @@
     }
     a:hover .teaser {
       opacity: 1;
-      border: 3px solid $lemon;
+      border: 3px #d19ed2;
     }
     .title {
       display: block;
